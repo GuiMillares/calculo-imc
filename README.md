@@ -1,2 +1,2 @@
-# calculo-imc
-This repository is about a site that calculates the person's BMI.
+# javascript-exercises
+This repository is about the exercises done in the JavaScript and TypeScript course.
